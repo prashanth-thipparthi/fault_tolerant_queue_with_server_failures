@@ -1,0 +1,4 @@
+com\distributed\queue\App.class
+com\distributed\queue\FTQueue.class
+com\distributed\queue\Server.class
+com\distributed\queue\Client.class
