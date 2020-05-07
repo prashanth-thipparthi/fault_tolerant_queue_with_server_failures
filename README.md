@@ -1,6 +1,7 @@
 # Fault-tolerant Distributed Queue with server failures implemented with Sequencer based Protocol
 
 Implemenation of faul tolerant and distributed queue with using sequencer based protocol.
+Detailed write up [link](https://github.com/prashanth-thipparthi/fault_tolerant_queue_with_server_failures/blob/master/ProgrammingAssignment2.pdf "Title").
 
 # Compiling code
 mvn clean install.
