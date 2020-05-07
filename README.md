@@ -22,4 +22,4 @@ mvn exec:java@client
 
 5. When a server restarts or comes back from crash failure and joins the cluster, messages are replayed and consistency is maintained.
 
-4. Verify the queue by connecting to a different server apart from the first server.
+6. Verify the queue by connecting to a different server apart from the first server.
